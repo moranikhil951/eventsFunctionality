@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.normalImage {
+  width: 300px;
+  width: 300px;
+}
+
+.imageBorder {
+  width: 300px;
+  width: 300px;
+  border: #2dd4bf 1px solid;
+}
+.listed-item {
+  margin: 10px;
+}
+
+.button-image {
+  background-color: transparent;
+
+  border: 0px;
+  cursor: pointer;
+}
+
+.name {
+  color: white;
+  margin-left: 10px;
+}
+
+.location {
+  color: white;
+  margin-left: 10px;
+}
